@@ -15,4 +15,11 @@
             <li>item 3</li>
             <li>item 4</li>
             <li>item 5</li>
+        </ul>
+        <h2>modo de preparo</h2>   
+        <ol></ol>
+            <li>misturar tudo</li>
+            <li>untar a forma</li>
+            <li>assar a 200 graus por 40 minutos</li>
+        </ol>
     </body> 
